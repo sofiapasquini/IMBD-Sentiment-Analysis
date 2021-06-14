@@ -1,2 +1,2 @@
 # IMBD-Sentiment-Analysis
-I use dimensionality reduction techniques in order to analyse and predict sentiment in a set of texts.
+I use dimensionality reduction techniques in order to analyse and predict sentiment in a set of texts. The data set used is from the Internet Movie Database consisting of 1000 reviews labelled as positive or negative by humans, entitled 'IMDB_Sample.xlsx'. I explore and compare predictive performances of dimensionally-reduced input data using Partial Component Analysis and Autoencoding.
